@@ -1,4 +1,4 @@
-(defproject joelash/twilio-api "0.1.1"
+(defproject joelash/twilio-api "0.1.2-SNAPSHOT"
   :description "Clojure wrapper for Twillio"
   :url "http://owainlewis.com"
   :license {:name "Eclipse Public License"
