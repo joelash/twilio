@@ -35,7 +35,7 @@
   (URLEncoder/encode url))
 
 (defn make-request-url [endpoint]
-  (format "%s/Accounts/%s/SMS/%s.json"
+  (format "%s/Accounts/%s/%s.json"
     base
     *sid*
     endpoint))
